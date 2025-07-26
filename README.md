@@ -35,7 +35,7 @@ This project performs multiple sequence alignment and homology modeling of the H
 </p>
 
 ## 🚀 Run the Code
-Open `notebooks/hemoglobin_alignment_modeling.ipynb` in Google Colab.
+Open `notebooks/clustal_X_MSA_swissmod.ipynb` in Google Colab.
 
 ## ✅ Output Files
 - `aligned.aln` – MSA output
